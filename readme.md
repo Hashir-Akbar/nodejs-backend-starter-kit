@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides a professional folder structure for backend development using Node.js and JavaScript. It includes a starter folder structure, global configurations for Prettier, and Nodemon to streamline your development workflow. The setup also includes environment variable management.
+This repository provides a professional starter kit for backend development using Node.js. It includes a starter folder structure, global configurations for Prettier, and Nodemon to streamline your development workflow. The setup also includes environment variable management.
 
 This repository is set up as a template. You can use it as a starting point for your own projects.
 
